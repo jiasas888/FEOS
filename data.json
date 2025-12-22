@@ -1,14 +1,14 @@
 {
 "OS_name":"FEOS",
-"beta_version":"2.0 beta 2",
+"beta_version":"2.0 beta 3",
 "stable_version":"1.0.3.0",
 "made_in":"WebCat",
 "data":{
-  "build_time":"2025.12.18",
-  "txt_app_ver":"1.0.0",
+  "build_time":"2025.12.22",
+  "txt_app_ver":"1.0.1",
   "calculator_ver":"1.1.0",
   "date_choose_app":"1.0.0",
   }
-"publish":true,
+"publish":true
 "lastes_ver_stable":flase
 }
