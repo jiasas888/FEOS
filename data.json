@@ -6,8 +6,9 @@
 "data":{
   "build_time":"2025.12.23",
   "txt_app_ver":"1.0.1",
-  "calculator_ver":"1.1.0",
+  "calculator_ver":"1.2.0",
   "date_choose_app":"1.0.0",
+  "paint_background_app":"1.0.0",
   }
 "publish":true
 "lastes_ver_stable":flase
