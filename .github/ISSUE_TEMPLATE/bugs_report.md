@@ -1,8 +1,8 @@
 ---
 name: 🐛Bug report
 about: 'report bug'
-title: '漏洞'
-labels: bug
+title: ''
+labels: 漏洞
 assignees: ''
 ---
 
