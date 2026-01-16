@@ -1,12 +1,12 @@
 {
 "OS_name":"FEOS ",
-"beta_version":"3.0-beta 6",
-"stable_version":"2.0.3",
+"beta_version":"3.0-beta 7",
+"stable_version":"3.0",
 "made_in":"WebCat",
 "data":{
-  "build_time":"2026.1.14",
+  "build_time":"2026.1.16",
   "txt_app_ver":"1.0.3",
-  "calculator_ver":"1.2.1",
+  "calculator_ver":"1.3.0",
   "date_choose_app":"1.0.0",
   "paint_background_app":"1.0.1",
   }
