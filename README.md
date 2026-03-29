@@ -2,6 +2,6 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888/FEOS/total)
 ## 简介
 
-一个系统框架模拟，目前支持时间显示，计算器，日期选择，文本编辑，调色和玻璃体样式
+一个系统框架模拟，内部有一些内置应用，有玻璃体样式等
 ### 官网
 https://jiasas888.github.io/FEOS/
