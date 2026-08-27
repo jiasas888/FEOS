@@ -6,14 +6,23 @@
   </head>
   <style>
   body{
-    background-color:#fff;
+    background-color:#80ceeb;
   }
   .zhubox{
-    background-color:purple;
+    background-color:#d2b48c;
     width:300px;
     height:200px;
     border-radius:8px;
     box-shadow:0 0px 15px rgba(0,0,0,0.25);
+  }
+  .class_btn{
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+    border-radius: 12px;
+    background-color:rgba(255,255,255,0.3);
+    border: 1px solid rgba(255,255,255,0.1);
+    margin-top: 20px;
   }
   </style>
   <body>	
@@ -23,8 +32,27 @@
   <br>
   <p>此网站是FEOS系统官方网站</p>
   </div>
-  <img src="img/sys_img_1.jpg" width="200px" height="400px"/>
-  <p>FEOS 4即将到来，玻璃体样式，文件夹等</p>
+  <div>
+  <!--大版本页面-->
+  <button id="feos_class_four" class="class_btn" onclick="openfeosfour();">FEOS 4</button>
+  <button id="feos_class_three" class="class_btn" onclick="openfeosthree();">FEOS 3</button>
+  <button id="feos_class_two" class="class_btn" onclick="openfeostwo()">FEOS 2</button>
+  <button id="feos_class_one" class="class_btn" onclick="openfeosone();">FEOS 1</button>
+  </div>
   </center>
   </body>
+  <script>
+    function openfeosone() {
+      window.open("feos_one.html");
+    }
+    function openfeostwo() {
+      window.open("feos_two.html");
+    }
+    function openfeosthree() {
+      window.open("feos_three.html");
+    }
+    function openfeosfour() {
+      window.open("feos_four.html");
+    }
+  </script>
 </html>
